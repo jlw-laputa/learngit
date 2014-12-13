@@ -7,3 +7,5 @@ Test merge with --no-f
 Git bug correction.
 Stash test.
 Modification from me.
+Modification from another guy.
+
